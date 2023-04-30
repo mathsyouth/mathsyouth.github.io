@@ -17,4 +17,4 @@ str_cookie_disclaimer: "We would like to use third party cookies and scripts to 
 str_months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
 # Localization settings 
-cusdis_lang: # zh-cn, es, tr, pt-BR
+cusdis_lang: zh-cn # zh-cn, es, tr, pt-BR
