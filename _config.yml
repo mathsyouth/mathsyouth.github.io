@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/home"
+baseurl: ""
 url: "https://mathsyouth.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -51,7 +51,10 @@ collections:
 sass:
   style: compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
-
+incremental: true
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", ".github", "SECURITY.md",
+          "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules/**", "gulpfile.js", "themes", "_draft",
+          "vendor/*", ".git", ".jekyll-cache", ".jekyll-metadata", "assets/node_modules/*"]
+keep_files: ["assets/example", "assets/notebook", "assets/sound", "assets/js", "assets/img",]
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
