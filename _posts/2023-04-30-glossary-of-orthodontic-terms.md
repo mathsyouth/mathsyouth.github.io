@@ -9,6 +9,8 @@ tags: [orthodontics]
 
 ## A
 
+abrasion  磨损
+
 active 主动的
 
 activate 激活
@@ -29,8 +31,6 @@ aesthetic 美观
 
 aid 帮助
 
-aim at 旨在
-
 alveolar bone 牙槽骨
 
 alveolar bone height 牙槽骨高度
@@ -38,6 +38,10 @@ alveolar bone height 牙槽骨高度
 alveolar process 牙槽突
 
 anatomic curvature 解剖曲线
+
+anatomical crown 解剖牙冠
+
+anatomical root 解剖牙根
 
 alleviate 减轻，缓和
 
@@ -53,7 +57,15 @@ anterior area 前牙区
 
 anterior occlusal interference 前牙颌干扰
 
+antero-stopper 前止接触
+
 anteroposterior 前后的
+
+Angle's class I malocclusion 安氏 I 类错𬌗
+
+Angle's class II malocclusion 安氏 II 类错𬌗
+
+Angle's class III malocclusion 安氏 III 类错𬌗
 
 angulation 角度
 
@@ -73,11 +85,11 @@ A-P relation A-P前后矢状关系
 
 arch 弓形
 
-around 周围
-
 asymmetric 不对称
 
 attachment 附件
+
+attrition 磨耗
 
 auxiliary 辅助的
 
@@ -85,13 +97,19 @@ axis 牙轴
 
 axis inclination 轴倾度
 
+axis ridge 轴嵴
+
 ## B
+
+base of the skull 颅底
 
 bilateral 双侧的
 
 bevel attachment 楔形附件
 
 bicuspids 双尖的，前磨牙
+
+bicuspid teeth 双尖牙
 
 biomechanical principle 生物力学原则
 
@@ -103,9 +121,11 @@ bite record/registration 咬合记录
 
 bite correction 咬合跳跃
 
-black triangles 黑三角
+biting force or bite force 𬌗力
 
-block out of undercut 填倒凹
+[black triangle](https://support.clearcorrect.com/hc/en-us/articles/212258377) 黑三角
+
+block undercut out 填倒凹
 
 Bolton index Bolton 指数
 
@@ -121,7 +141,13 @@ bridge 桥体
 
 bruxism 夜磨牙症
 
-buccal 颊侧，口腔的
+buccal 颊侧
+
+buccal space 颊间隙
+
+buccal surface 颊面
+
+buccal region 颊区
 
 buccolingual 颊舌的
 
@@ -133,11 +159,17 @@ canine 尖牙
 
 carrier 载体
 
+contact area 接触区
+
 cuspid 尖牙
 
 cusp 牙尖 尖端
 
+cusp ridge 牙尖嵴
+
 cavity 窝洞
+
+cementum 牙骨质
 
 ceramic 陶瓷的
 
@@ -173,9 +205,15 @@ clearance 间隙
 
 closure 关闭
 
-clinical 临床的，诊所的
+clinical 临床的
 
-crossbite 反颌
+clinical crown 临床牙冠
+
+clinical root 临床牙根
+
+crossbite 反𬌗
+
+cross locked bite 反锁𬌗
 
 collision 碰撞
 
@@ -185,11 +223,17 @@ contralateral 对侧的
 
 consulation 咨询
 
+central cusp 中央尖
+
 central incisor 中切牙
+
+centric occlusion position, OCP 正中颌位
+
+centric stops 正中止接触
 
 cervical 颈部的 牙颈部
 
-cingulum 舌面隆突
+cingulum 舌隆突
 
 complete distoclusion 完全远中
 
@@ -217,9 +261,19 @@ cingulum 舌面隆突
 
 ## D
 
+deep overbite 深覆𬌗
+
+deep overjet 深覆盖
+
 deficiency 缺陷
 
+development 生长期
+
+developmental groove 发育沟
+
 distal 远中的
+
+distal surface 远中面
 
 distalization 远移
 
@@ -239,13 +293,23 @@ dimple 凹洞
 
 dimension 大小，尺寸
 
-dentition 牙列
+dental cervix 牙颈
+
+dental crown 牙冠
+
+dental cusp 牙尖
 
 dental restorations 牙齿修复
+
+dental root 牙根
+
+dental arch 牙弓
 
 dentofacial 牙面
 
 dentin 牙本质
+
+dentition 牙列
 
 diastema 牙间隙
 
@@ -271,7 +335,7 @@ elastic slits 弹性带切口
 
 end result 终末位置
 
-enamel 搪瓷 珐琅 釉质 牙釉质
+enamel 牙釉质
 
 ectracted 拔除
 
@@ -305,6 +369,10 @@ exfoliated 脱落的，剥离的
 
 facial 面部
 
+fossa 窝
+
+foramen ovale 卵圆孔
+
 frog 青蛙
 
 forg pattern 蛙式
@@ -327,6 +395,8 @@ gingiva 齿龈
 
 gingival embrasure 牙龈乳头
 
+gliding joint 滑动关节
+
 groove 沟， 磨牙颌面的沟
 
 grid 网格
@@ -343,21 +413,29 @@ gable bends
 
 ## H
 
+handicapping dentofacial anomaly 牙面异常
+
 harmony 平衡
 
-horizantal 水平线
-
-horizontal attachment 水平附件
-
 heavy occlusion 重咬合
+
+height of contour 外形高点
 
 heredity 遗传
 
 handicapping 妨碍，残障
 
-hypoplasia of enamel 牙釉质发育不全
+hinge axis 铰链轴
 
-handicapping dentofacial anomaly 牙面异常
+hinge joint 铰链关节
+
+hinge movement 铰链运动
+
+horizantal 水平线
+
+horizontal attachment 水平附件
+
+hypoplasia of enamel 牙釉质发育不全
 
 ## I
 
@@ -371,6 +449,8 @@ incisor 切牙
 
 inclination 斜度
 
+inclined surface 斜面
+
 insert and remove the aligners 摘戴矫治器
 
 instruction 指令，说明
@@ -378,6 +458,10 @@ instruction 指令，说明
 incisal 切面
 
 incisal edge 切端
+
+incisal path inclination 切道斜度
+
+incisal ridge 切嵴
 
 individual normal occlusion 个别正常合
 
@@ -415,6 +499,10 @@ intrusion 压低
 
 implant 植入
 
+intercuspal occlusion, ICO 牙尖交错𬌗
+
+intercuspal position, ICP 牙尖交错位
+
 intermediate key
 
 interocclusal 牙合面间的
@@ -435,6 +523,8 @@ IPR ganges 测量尺
 
 jaw 下巴
 
+jaw-opening reflex 开颌反射
+
 jiggling movement 往复移动
 
 junction 接口，交界处
@@ -453,15 +543,25 @@ lingual 舌侧的
 
 lingual crown torque 冠舌向转矩
 
+lingual surface 舌面
+
 lip 嘴唇
 
 labial 唇的
 
 labial root torque 根唇向转矩
 
+labial surface 唇面
+
+labiofacial sulcus 唇面沟
+
 lateral 侧面的
 
 lateral incisor 侧切牙
+
+locked bite 锁𬌗
+
+long axis 牙长轴
 
 lower anterior 下颌前牙
 
@@ -471,21 +571,31 @@ leeway space 替牙间隙
 
 ## M
 
+macrodontia 巨牙 ，过大牙
+
+malalignment 排列不齐
+
+malocclusion 错𬌗
+
 marginal ridge 边缘嵴
 
-macrodontia 巨牙 ，过大牙
+main concerns 主诉
+
+manually 手动
 
 MIA/implant 种植钉
 
 microdontia 过小牙
 
-maxillary 上颌的，上颌骨的
-
-maxillary prognatia 上颌前伸
-
-maxillary protrusion 上颌前凸
+mandible 下颌骨
 
 mandibular 下颌
+
+mandibular canine 下颌尖牙
+
+mandibular lateral incisor 下颌侧切牙
+
+mandibular position 颌位
 
 mandibular ramus 下颌升支
 
@@ -493,21 +603,39 @@ mandibular retrognathia 下颌后缩
 
 mandibular trough （mantrough）下颌中央沟/牙槽骨界限
 
-malalignment 排列不齐
+maxilla 上颌骨
 
-malocclusion 错颌畸形
+maxillary 上颌的，上颌骨的
 
-marginal ridge 边缘嵴
+maxillary canine 上颌尖牙
 
-main concerns 主诉
+maxillary central incisor 上颌中切牙
 
-manually 手动的 用手
+maxillary lateral incisor 上颌侧切牙
+
+maxillary second deciduous molar 上颌第二乳磨牙
+
+maxillary second molar 上颌第二磨牙
+
+maxillary second premolar 上颌第二前磨牙
+
+maxillary prognatia 上颌前伸
+
+maxillary protrusion 上颌前凸
+
+maximal biting force 最大𬌗力
+
+maximal intercuspal position, MIP 最大牙尖交错位
 
 maximum anchorage 强支抗
 
 minimum anchorage 弱支抗
 
+median line 中线
+
 mesial 近中的
+
+mesial surface 近中面
 
 mesiodens 正中多生牙
 
@@ -547,6 +675,8 @@ neuromuscular 神经肌肉的
 
 ## O
 
+oblique ridge 斜嵴
+
 orthodontic treatment 正畸治疗
 
 orthodontic wire 正畸弓丝
@@ -557,19 +687,25 @@ orientation 方向 朝向
 
 occlusal 咬合面的
 
-occlusion 咬合面的，咬合
+occlusal key 𬌗关键
+
+occlusal surface 𬌗面
+
+occlusal plane 𬌗平面
+
+occlusion 咬合
 
 occlusion terminology 咬合术语
 
 occlusal interference 咬合干扰
 
-open bite 开合
+open bite 开𬌗
 
 opposite 相反的
 
 overjet oj 覆盖
 
-overbite ob 覆合
+overbite ob 覆𬌗
 
 over-correction 过矫治
 
@@ -591,7 +727,11 @@ passive 被动的
 
 parabolic 抛物线的
 
+premolar 前磨牙
+
 premolar region 前磨牙区
+
+proximal surface 邻面
 
 permolar 前磨牙
 
@@ -607,7 +747,9 @@ protrusion 突出，前突
 
 prominence 突出
 
-posterior 后牙
+posterior teeth 后牙
+
+postero-stopper 后止接触
 
 posterior bite turbos PBT 颌垫
 
@@ -673,7 +815,11 @@ remaining 仍需做的
 
 restoration 恢复，修复
 
-retention 保持，维持
+rest position 休息位
+
+retention 固位
+
+retention force 固位力
 
 rotation 扭转
 
@@ -682,6 +828,10 @@ review 检查 回顾
 reverse overjet 反覆盖
 
 retroclined 舌倾
+
+retruded contact position, RCP 后退接触位
+
+ridge 嵴
 
 round form 圆形
 
@@ -717,6 +867,8 @@ revision 修改，版本
 
 ## S
 
+sagittal curve of occlusion 纵𬌗曲线
+
 sagittal plane 矢状平面
 
 single/dual arch 单双颌
@@ -727,9 +879,15 @@ sealant 封闭剂
 
 sectional braces 片段弓
 
+sensation 感觉
+
+sensory receptor 感受器
+
 sequential movement 序列移动
 
 semi erpted
+
+supporting cusp 支持尖
 
 stage 阶段，步，步骤
 
@@ -787,6 +945,8 @@ tougue 舌头
 
 toolbar 工具栏
 
+tooth position 牙位
+
 tooth size discrepancy 牙量不调
 
 thickness 厚度
@@ -819,7 +979,11 @@ TMJ adequate function 颞下颌关节的功能
 
 translation 平行移动
 
+transverse curve of occlusion 横𬌗曲线
+
 transverse plane 水平面
+
+transverse ridge 横脊
 
 trim 修剪，切削 切割
 
@@ -831,7 +995,7 @@ trim off 切除
 
 upright 竖直的，直立
 
-undercut 倒凹
+[undercut](https://support.clearcorrect.com/hc/en-us/articles/4404369860375-Impressions-Undercuts) 倒凹
 
 unpredictable movement 不可预测的移动
 
@@ -840,6 +1004,8 @@ unilateral 单侧
 ## V
 
 vertical attachment 垂直附件
+
+vertical dimension of occlusion, VDO 𬌗垂直高度
 
 vertical plane 垂直面
 
