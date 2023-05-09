@@ -29,8 +29,6 @@ advanced stages of root resorption 严重的牙根吸收
 
 aesthetic 美观
 
-aid 帮助
-
 alveolar bone 牙槽骨
 
 alveolar bone height 牙槽骨高度
@@ -153,6 +151,8 @@ buccolingual 颊舌的
 
 buccal crossbite 锁颌
 
+buccal pit 颊窝
+
 ## C
 
 canine 尖牙
@@ -224,6 +224,8 @@ contralateral 对侧的
 consulation 咨询
 
 central cusp 中央尖
+
+central groove 中央沟
 
 central incisor 中切牙
 
@@ -323,8 +325,6 @@ de-torque 减小转矩
 
 dummy arch 虚拟牙弓
 
-DTX
-
 ## E
 
 edentulous 无齿的， 无牙合， 缺牙的，
@@ -389,6 +389,8 @@ fixed orthodontics 固定矫治
 
 functional appliance 功能性矫治器
 
+functional axis of clinical crown point, FACC 临床冠点的功能轴
+
 ## G
 
 gingiva 齿龈
@@ -425,6 +427,8 @@ heredity 遗传
 
 handicapping 妨碍，残障
 
+highest point on the palate-gingival margin 腭侧龈缘的最高点
+
 hinge axis 铰链轴
 
 hinge joint 铰链关节
@@ -445,6 +449,10 @@ icon 图标
 
 impression 印模
 
+in vitro 体外
+
+in vivo 体内
+
 incisor 切牙
 
 inclination 斜度
@@ -455,7 +463,7 @@ insert and remove the aligners 摘戴矫治器
 
 instruction 指令，说明
 
-incisal 切面
+incisal 切缘
 
 incisal edge 切端
 
@@ -639,13 +647,17 @@ mesial surface 近中面
 
 mesiodens 正中多生牙
 
+mesio-lingual cusp tip 近中舌尖
+
 mesialize 近移
 
-mersialization
+mid-crown 牙冠中部
 
-mild crowdedness
+mid-incisal edge point 切缘中点
 
-minor-moderate
+mild crowdedness 轻度拥挤
+
+moderate 中度
 
 midline 中线
 
@@ -665,10 +677,6 @@ neck 颈部
 
 neighboring 临近的
 
-neutral
-
-natural 自然的
-
 nance button 颚托
 
 neuromuscular 神经肌肉的
@@ -685,7 +693,7 @@ orthodontic surgery 外科矫治
 
 orientation 方向 朝向
 
-occlusal 咬合面的
+occlusal 𬌗面
 
 occlusal key 𬌗关键
 
@@ -758,6 +766,8 @@ palate 上腭
 palatal 腭侧
 
 palatal expansion 腭侧扩弓
+
+palatal surface 牙冠腭侧
 
 percision cut 精密切割
 
@@ -851,10 +861,6 @@ root labial torque 根唇向转矩
 
 root lingual torque RLT根舌向转矩
 
-region 区域
-
-retanguar
-
 relapse and retention 复发和保持
 
 rectangular attactment 方形附件
@@ -884,8 +890,6 @@ sensation 感觉
 sensory receptor 感受器
 
 sequential movement 序列移动
-
-semi erpted
 
 supporting cusp 支持尖
 
@@ -938,6 +942,8 @@ skeletal abnormalities 骨骼畸形
 ## T
 
 talon cusp 畸形舌侧尖
+
+thermoforming 热成型
 
 torque 转矩
 
@@ -1029,7 +1035,12 @@ warranty 保用单，许可授权（证）
 
 worn 磨损
 
+## Z
+
+zenith point 龈顶点
+
 ## 参考信息
 
 1. [正畸常用英文汇总](https://zhuanlan.zhihu.com/p/410417641)
 2. [Glossary of Orthodontic Terms](https://aaoinfo.org/resources/glossary-of-orthodontic-terms/)
+3. 王美青，何三纲. 口腔解剖生理学，第 7 版.
