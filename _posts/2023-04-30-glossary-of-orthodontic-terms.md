@@ -49,6 +49,8 @@ aligner 矫治器
 
 alignment 对齐
 
+anterior guidance 前导
+
 anterior teeth 前牙
 
 anterior area 前牙区
@@ -343,7 +345,7 @@ extraction 拔牙 缩写ext
 
 extrude 伸长
 
-extrusion 伸长
+[extrusion](https://support.clearcorrect.com/hc/en-us/articles/4408255590551-Extrusions-How-to-Extrude-Teeth-with-Auxiliaries) 伸长
 
 expand 扩大
 
@@ -503,7 +505,7 @@ improve occlusion 改善咬合
 
 intrude 压低
 
-intrusion 压低
+[intrusion](https://support.clearcorrect.com/hc/en-us/articles/4409540905367-Basic-Principles-for-Difficult-Movements) 压低
 
 implant 植入
 
@@ -950,6 +952,8 @@ torque 转矩
 tougue 舌头
 
 toolbar 工具栏
+
+[tooth movements](https://support.clearcorrect.com/hc/en-us/articles/4402323236247-Tooth-Movements) 牙齿移动
 
 tooth position 牙位
 
